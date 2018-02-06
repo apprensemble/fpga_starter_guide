@@ -5,7 +5,7 @@ Pour découvrir le fonctionnement d'un fpga et l'utiliser
 
 ### Qu'est-ce qu'un FPGA
 
-Field-programmable gate array ou réseau de portes programmables. Sont souvent utiliser pour du prototypage de circuits integrés Spécialisés(ASIC) : https://fr.wikipedia.org/wiki/Circuit_logique_programmable
+Field-programmable gate array ou réseau de portes programmables. Sont souvent utiliser pour du prototypage de circuits intégrés Spécialisés(ASIC) : https://fr.wikipedia.org/wiki/Circuit_logique_programmable
 
 ### De quoi ai-je besoin?
 
@@ -35,3 +35,17 @@ http://www.clifford.at/icestorm/
 #### En savoir plus
 
 http://www.clifford.at/papers/2015/icestorm-flow/
+
+## Tester le fpga
+
+### Installation de la chaine d'outils
+
+
+
+### faire clignoter les leds
+
+## Projets sympa
+
+### processeur j1a + interpreteur forth(swapforth)
+
+http://www.excamera.com/sphinx/article-j1a-swapforth.html
